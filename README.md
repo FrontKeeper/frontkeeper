@@ -13,4 +13,6 @@
   <br>
   <p>Server Side</p>
   <img src="https://img.shields.io/badge/PHP-inactive?style=for-the-badge&logo=PHP&logoColor=black">
+  <p>Database</p>
+  <img src="https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=MariaDB&logoColor=black">
 </div>
