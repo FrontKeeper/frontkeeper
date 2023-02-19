@@ -4,5 +4,5 @@
 <h3>Keeper Github에 오신 것을 환영합니다.</h3>
 <br>
 <h2>기술스택<h2>
+ <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 </div>
-![fontkeeper's github stats](https://github-readme-stats.vercel.app/api?username=fontkeeper&show_icons=true)
