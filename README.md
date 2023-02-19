@@ -3,5 +3,6 @@
 <div align=center>
 <h3>Keeper Github에 오신 것을 환영합니다.</h3>
 <br>
-<h2>기술스택 ![fontkeeper's github stats](https://github-readme-stats.vercel.app/api?username=fontkeeper&show_icons=true)<h2>
+<h2>기술스택<h2>
 </div>
+![fontkeeper's github stats](https://github-readme-stats.vercel.app/api?username=fontkeeper&show_icons=true)
