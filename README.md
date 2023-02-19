@@ -4,5 +4,5 @@
 <h3>Keeper Github에 오신 것을 환영합니다.</h3>
 <br>
 <h2>기술스택<h2>
-  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
