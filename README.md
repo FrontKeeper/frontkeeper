@@ -12,4 +12,5 @@
   <img src="https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=black">
   <br>
   <p>Server Side</p>
+  <img src="https://img.shields.io/badge/PHP-inactive?style=for-the-badge&logo=PHP&logoColor=black">
 </div>
