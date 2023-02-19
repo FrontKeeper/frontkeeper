@@ -6,5 +6,6 @@
 <h2>기술스택<h2>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/Jquery-blue?style=for-the-badge&logo=jQuery&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-important?style=for-the-badge&logo=HTML5&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-infomational?style=for-the-badge&logo=CSS3&logoColor=black">
 </div>
